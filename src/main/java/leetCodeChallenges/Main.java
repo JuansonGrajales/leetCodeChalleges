@@ -34,8 +34,13 @@ public class Main {
 //		GroupAnagrams.groupAnagrams(arrStrings);
 
 		//Counting Elements
-		int [] arr = new int[] {1,1,2,2};
-		System.out.println(CountingElements.countElements(arr));
+//		int [] arr = new int[] {1,1,2,2};
+//		System.out.println(CountingElements.countElements(arr));
+		
+		//Backspace String Compare
+		String str1="ab#c";
+		String str2="ad#c";
+		System.out.println(BackspaceStringCompare.backspaceCompare(str1, str2));
 	}
 
 }
