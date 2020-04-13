@@ -38,9 +38,13 @@ public class Main {
 //		System.out.println(CountingElements.countElements(arr));
 		
 		//Backspace String Compare
-		String str1="ab#c";
-		String str2="ad#c";
-		System.out.println(BackspaceStringCompare.backspaceCompare(str1, str2));
+//		String str1="ab#c";
+//		String str2="ad#c";
+//		System.out.println(BackspaceStringCompare.backspaceCompare(str1, str2));
+		
+		int [] stones = new int [] {2,7,4,1,8,1};
+		System.out.println(LastStoneWeight.lastStoneWeight(stones));
+	
 	}
 
 }
