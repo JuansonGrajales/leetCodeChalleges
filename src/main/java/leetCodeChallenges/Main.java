@@ -42,9 +42,15 @@ public class Main {
 //		String str2="ad#c";
 //		System.out.println(BackspaceStringCompare.backspaceCompare(str1, str2));
 		
-		int [] stones = new int [] {2,7,4,1,8,1};
-		System.out.println(LastStoneWeight.lastStoneWeight(stones));
-	
+//		int [] stones = new int [] {2,7,4,1,8,1};
+//		System.out.println(LastStoneWeight.lastStoneWeight(stones));
+
+//		int [] contiguousArray = new int [] {0,1,0,1};
+//		ContiguousArray.findMaxLength(contiguousArray);
+		
+		String s = "yisxjwry";
+		int [][] shift = {{1,8}, {1,4}, {1,3}, {1,6}, {0,6}, {1,4}, {0,2}, {0,1}};
+		System.out.println(PerformStringShifts.stringShift(s, shift));
 	}
 
 }
