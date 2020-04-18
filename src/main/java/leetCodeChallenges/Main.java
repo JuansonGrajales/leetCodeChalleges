@@ -48,9 +48,43 @@ public class Main {
 //		int [] contiguousArray = new int [] {0,1,0,1};
 //		ContiguousArray.findMaxLength(contiguousArray);
 		
-		String s = "yisxjwry";
-		int [][] shift = {{1,8}, {1,4}, {1,3}, {1,6}, {0,6}, {1,4}, {0,2}, {0,1}};
-		System.out.println(PerformStringShifts.stringShift(s, shift));
+//		String s = "yisxjwry";
+//		int [][] shift = {{1,8}, {1,4}, {1,3}, {1,6}, {0,6}, {1,4}, {0,2}, {0,1}};
+//		System.out.println(PerformStringShifts.stringShift(s, shift));
+		
+//		int [] nums = new int [] {4,5,1,8,2};
+//		ProductOfArrayExceptSelf.productExceptSelf(nums);
+		
+		//String s ="*()(())*()(()()((()(()()*)(*(())((((((((()*)(()(*)";
+//		String s = "(((******))";
+//		System.out.println(ValidParenthesisString.checkValidString(s));
+		
+//		char [][] grid = new char [3][3];
+//		grid[0][0]='1';
+//		grid[0][1]='1';
+//		grid[0][2]='0';
+//		grid[1][0]='0';
+//		grid[1][1]='0';
+//		grid[1][2]='1';
+//		grid[2][0]='1';
+//		grid[2][1]='0';
+//		grid[2][2]='0';		
+//		System.out.println(NumberOfIslands.numIslands(grid));
+
+		int [][] grid = new int [2][3];
+		grid[0][0]=1;
+		grid[0][1]=2;
+		grid[0][2]=5;
+		grid[1][0]=3;
+		grid[1][1]=2;
+		grid[1][2]=1;
+//		grid[2][0]=4;
+//		grid[2][1]=2;
+//		grid[2][2]=1;
+		
+		System.out.println(MinimumPathSum.minPathSum(grid));
+		
+
 	}
 
 }
