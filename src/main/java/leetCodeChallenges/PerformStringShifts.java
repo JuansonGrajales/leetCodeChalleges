@@ -1,8 +1,6 @@
 package leetCodeChallenges;
 
 /**
- * @author Juan Grajales
- *
  *         You are given a string s containing lowercase English letters, and a
  *         matrix shift, where shift[i] = [direction, amount]:
  * 

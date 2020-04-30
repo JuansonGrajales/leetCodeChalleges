@@ -70,21 +70,29 @@ public class Main {
 //		grid[2][1]='0';
 //		grid[2][2]='0';		
 //		System.out.println(NumberOfIslands.numIslands(grid));
-
-		int [][] grid = new int [2][3];
-		grid[0][0]=1;
-		grid[0][1]=2;
-		grid[0][2]=5;
-		grid[1][0]=3;
-		grid[1][1]=2;
-		grid[1][2]=1;
+//
+//		int [][] grid = new int [2][3];
+//		grid[0][0]=1;
+//		grid[0][1]=2;
+//		grid[0][2]=5;
+//		grid[1][0]=3;
+//		grid[1][1]=2;
+//		grid[1][2]=1;
 //		grid[2][0]=4;
 //		grid[2][1]=2;
 //		grid[2][2]=1;
+//		System.out.println(MinimumPathSum.minPathSum(grid));
 		
-		System.out.println(MinimumPathSum.minPathSum(grid));
+//		int [] nums = new int [] {4,5,6,7,0,1,2};
+//		SortedRotatedArray.search(nums, 0);
 		
-
+//		int [] preorder = new int [] {8,5,1,7,10,12};
+//		ConstructBinarySearchTreefromPreorderTraversal.bstFromPreorder(preorder);
+		
+		String str1 = "heat";
+		String str2 = "hit";
+		int answer= DeletionDistance.deletionCount(str1, str2);
+		System.out.println(answer);
 	}
 
 }
