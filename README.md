@@ -12,5 +12,6 @@ The solution is at problems/the-file-name/. For example, LEFT BANK solution is a
 ## leetcode problems
 
 ### Two Pointers
-| Name | Difficulty |
-|------|------------|
+| Id | Name | Difficulty |
+|----|------|------------|
+| 844 | Backspace String Compare | Easy |
