@@ -15,13 +15,13 @@ The solution is at problems/the-file-name/. For example, LEFT BANK solution is a
 | Id | Name | Difficulty |
 |----|------|------------|
 | 844 | [Backspace String Compare](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/BackspaceStringCompare.java) | Easy |
-
+| * | [List Node](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/ListNode.java) | * | 
 ### Greedy
 | Id | Name | Difficulty |
 |----|------|------------|
 | 122 | [Best Time to Buy and Sell Stock II](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/BestTimeToBuyAndSellStockII.java) | Easy |
 | 55 | [Jump Game](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/JumpGame.java) | medium |
-
+| 1046 | [Last Stone Weight](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/LastStoneWeight.java) | Easy |
 
 ### Binary Matrix
 | Id | Name | Difficulty |
@@ -43,9 +43,14 @@ The solution is at problems/the-file-name/. For example, LEFT BANK solution is a
 |----|------|------------|
 | 525 | [Contiguous Array](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/ContiguousArray.java) | Medium |
 | 1426 | [Counting Elements](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/CountingElements.java) | Easy |
-| | [Deletion Distance](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/DeletionDistance.java) | |
+| * | [Deletion Distance](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/DeletionDistance.java) | * |
 | 49 | [Group Anagrams](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/GroupAnagrams.java) | Medium |
 | 202 | [Happy Number](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/HappyNumber.java) | Easy |
+
+### Design
+| Id | Name | Difficulty |
+|----|------|------------|
+| 146 | [LRU Cache](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/LRUCache.java) | Medium |
 
 ### Advance
 | Id | Name | Difficulty |
