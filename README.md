@@ -90,6 +90,6 @@ Because I wanted to help others like me, I added alternative (and in some cases 
 | 1429 | [First Unique Number](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/FirstUniqueNumber.java) | Medium |
 | 1427 | [Perform String Shifts](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/PerformStringShifts.java) | Easy |
 
-
+##
 
 <img src="Assets/30DayChallenge.png" width=500 >
