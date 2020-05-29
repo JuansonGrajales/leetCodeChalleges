@@ -1,4 +1,4 @@
-# leetCodeChalleges ![](Assets/30DayChallenge.png)
+# leetCodeChalleges <img src="Assets/30DayChallenge.png" width=100 >
 It consists of daily problems over the month of April.
 
 ## Overview
