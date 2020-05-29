@@ -7,8 +7,6 @@ This is my Java Leetcode solution. As time grows, this also become a guide to pr
 I really take time to solve for the most efficient solution and collect the best resource that I found.
 Because I wanted to help others like me, I added alternative (and in some cases more efficient) solutions to most of the problems.
 
-The solution is at problems/the-file-name/. For example, LEFT BANK solution is at https://leetcode.com/problems/merge-sorted-array/.
-
 ## leetcode problems
 
 ### Two Pointers
@@ -24,6 +22,11 @@ The solution is at problems/the-file-name/. For example, LEFT BANK solution is a
 | 122 | [Best Time to Buy and Sell Stock II](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/BestTimeToBuyAndSellStockII.java) | Easy |
 | 55 | [Jump Game](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/JumpGame.java) | medium |
 | 1046 | [Last Stone Weight](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/LastStoneWeight.java) | Easy |
+
+### String
+| Id | Name | Difficulty |
+|----|------|------------|
+| 678 | [Valid Parenthesis String](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/ValidParenthesisString.java) | Medium |
 
 ### Array
 | Id | Name | Difficulty |
@@ -45,6 +48,7 @@ The solution is at problems/the-file-name/. For example, LEFT BANK solution is a
 | Id | Name | Difficulty |
 |----|------|------------|
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/ConstructBinarySearchTreefromPreorderTraversal.java) | Medium |
+| 543 | [Diameter of Binary Tree](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/TreeNode.java) | Easy |
 
 ### HashTable
 | Id | Name | Difficulty |
@@ -54,6 +58,7 @@ The solution is at problems/the-file-name/. For example, LEFT BANK solution is a
 | * | [Deletion Distance](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/DeletionDistance.java) | * |
 | 49 | [Group Anagrams](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/GroupAnagrams.java) | Medium |
 | 202 | [Happy Number](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/HappyNumber.java) | Easy |
+| 560 | [Subarray Sum Equals K](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/SubarraySumEqualsK.java) | Medium |
 
 ### Design
 | Id | Name | Difficulty |
@@ -78,7 +83,6 @@ The solution is at problems/the-file-name/. For example, LEFT BANK solution is a
 |----|------|------------|
 | 200 | [Number of Islands](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/NumberOfIslands.java) | Medium |
 | 33 | [Search in Rotated Sorted Array](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/SortedRotatedArray.java) |  Medium |
-
 
 ### Advance
 | Id | Name | Difficulty |
