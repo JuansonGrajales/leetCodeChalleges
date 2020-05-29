@@ -52,6 +52,17 @@ The solution is at problems/the-file-name/. For example, LEFT BANK solution is a
 |----|------|------------|
 | 146 | [LRU Cache](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/LRUCache.java) | Medium |
 
+### Divide and Conquer
+| Id | Name | Difficulty |
+|----|------|------------|
+| 53 | [Maximum Subarray](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/MaximumSubarray.java) | Medium |
+
+### Dynamic Programmig
+| Id | Name | Difficulty |
+|----|------|------------|
+| 1143 | [Longest Common Subsequence](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/LongestCommonSequence.java) | Medium |
+| 221 | [Maximal Square](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/MaximalSquare.java) | Medium |
+
 ### Advance
 | Id | Name | Difficulty |
 |----|------|------------|
