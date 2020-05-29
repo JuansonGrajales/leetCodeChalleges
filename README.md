@@ -15,3 +15,8 @@ The solution is at problems/the-file-name/. For example, LEFT BANK solution is a
 | Id | Name | Difficulty |
 |----|------|------------|
 | 844 | Backspace String Compare | Easy |
+
+### Greedy
+| Id | Name | Difficulty |
+|----|------|------------|
+| 122 | Best Time to Buy and Sell Stock II | Easy |
