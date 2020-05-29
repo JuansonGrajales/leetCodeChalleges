@@ -15,7 +15,9 @@ The solution is at problems/the-file-name/. For example, LEFT BANK solution is a
 | Id | Name | Difficulty |
 |----|------|------------|
 | 844 | [Backspace String Compare](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/BackspaceStringCompare.java) | Easy |
-| * | [List Node](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/ListNode.java) | * | 
+| * | [List Node](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/ListNode.java) | * |
+| 283 | [Move Zeroes](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/MoveZeroes.java) | Easy |
+
 ### Greedy
 | Id | Name | Difficulty |
 |----|------|------------|
@@ -51,6 +53,7 @@ The solution is at problems/the-file-name/. For example, LEFT BANK solution is a
 | Id | Name | Difficulty |
 |----|------|------------|
 | 146 | [LRU Cache](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/LRUCache.java) | Medium |
+| 155 | [Min Stack](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/MinStack.java) | Easy |
 
 ### Divide and Conquer
 | Id | Name | Difficulty |
@@ -62,6 +65,7 @@ The solution is at problems/the-file-name/. For example, LEFT BANK solution is a
 |----|------|------------|
 | 1143 | [Longest Common Subsequence](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/LongestCommonSequence.java) | Medium |
 | 221 | [Maximal Square](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/MaximalSquare.java) | Medium |
+| 64 | [Minimum Path Sum](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/MinimumPathSum.java) | Medium |
 
 ### Advance
 | Id | Name | Difficulty |
