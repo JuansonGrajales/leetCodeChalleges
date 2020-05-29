@@ -1,4 +1,4 @@
-# leetCodeChalleges 
+# leetCodeChalleges <img src="Assets/LeetCode_logo_black.png">
 It consists of daily problems over the month of April.
 
 ## Overview
