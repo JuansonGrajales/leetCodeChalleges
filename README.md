@@ -14,17 +14,17 @@ The solution is at problems/the-file-name/. For example, LEFT BANK solution is a
 ### Two Pointers
 | Id | Name | Difficulty |
 |----|------|------------|
-| 844 | [Backspace String Compare](BackspaceStringCompare.java) | Easy |
+| 844 | [Backspace String Compare](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/BackspaceStringCompare.java) | Easy |
 
 ### Greedy
 | Id | Name | Difficulty |
 |----|------|------------|
-| 122 | Best Time to Buy and Sell Stock II | Easy |
+| 122 | [Best Time to Buy and Sell Stock II](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/BestTimeToBuyAndSellStockII.java) | Easy |
 
 ### Binary Matrix
 | Id | Name | Difficulty |
 |----|------|------------|
-| 1428 | Leftmost Column with at Least One | Medium |
+| 1428 | [Leftmost Column with at Least One](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/BinaryMatrixLeftMostColumnWithOne.java) | Medium |
 
 ### Bit Manipulation
 | Id | Name | Difficulty |
