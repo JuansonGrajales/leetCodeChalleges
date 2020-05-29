@@ -14,7 +14,7 @@ The solution is at problems/the-file-name/. For example, LEFT BANK solution is a
 ### Two Pointers
 | Id | Name | Difficulty |
 |----|------|------------|
-| 844 | Backspace String Compare | Easy |
+| 844 | [Backspace String Compare](BackspaceStringCompare.java) | Easy |
 
 ### Greedy
 | Id | Name | Difficulty |
