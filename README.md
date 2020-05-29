@@ -40,6 +40,7 @@ The solution is at problems/the-file-name/. For example, LEFT BANK solution is a
 | Id | Name | Difficulty |
 |----|------|------------|
 | 525 | [Contiguous Array](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/ContiguousArray.java) | Medium |
-
+| 1426 | [Counting Elements](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/CountingElements.java) | Easy |
+| | [Deletion Distance](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/DeletionDistance.java) | |
 
 
