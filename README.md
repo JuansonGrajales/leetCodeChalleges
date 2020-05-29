@@ -20,3 +20,13 @@ The solution is at problems/the-file-name/. For example, LEFT BANK solution is a
 | Id | Name | Difficulty |
 |----|------|------------|
 | 122 | Best Time to Buy and Sell Stock II | Easy |
+
+### Binary Matrix
+| Id | Name | Difficulty |
+|----|------|------------|
+| 1428 | Leftmost Column with at Least One | Medium |
+
+### Bit Manipulation
+| Id | Name | Difficulty |
+|----|------|------------|
+| 201 | [Bitwise AND of Numbers Range](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/BitwiseAndNumbersRange.java) | Medium |
