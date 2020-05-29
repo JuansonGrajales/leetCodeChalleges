@@ -1,5 +1,5 @@
 # leetCodeChalleges
-It consists of 31 daily problems over the month of April.
+It consists of daily problems over the month of April.
 
 ## Overview
 This is my Java Leetcode solution. As time grows, this also become a guide to prepare for software engineer interview.
