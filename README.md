@@ -43,4 +43,9 @@ The solution is at problems/the-file-name/. For example, LEFT BANK solution is a
 | 1426 | [Counting Elements](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/CountingElements.java) | Easy |
 | | [Deletion Distance](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/DeletionDistance.java) | |
 
+### Advance
+| Id | Name | Difficulty |
+|----|------|------------|
+| 1429 | [First Unique Number](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/FirstUniqueNumber.java) | Medium |
+
 
