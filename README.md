@@ -30,3 +30,16 @@ The solution is at problems/the-file-name/. For example, LEFT BANK solution is a
 | Id | Name | Difficulty |
 |----|------|------------|
 | 201 | [Bitwise AND of Numbers Range](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/BitwiseAndNumbersRange.java) | Medium |
+
+### Tree
+| Id | Name | Difficulty |
+|----|------|------------|
+| 1008 | [Construct Binary Search Tree from Preorder Traversal](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/ConstructBinarySearchTreefromPreorderTraversal.java) | Medium |
+
+### HashTable
+| Id | Name | Difficulty |
+|----|------|------------|
+| 525 | [Contiguous Array](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/ContiguousArray.java) | Medium |
+
+
+
