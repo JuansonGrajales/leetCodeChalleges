@@ -20,6 +20,8 @@ The solution is at problems/the-file-name/. For example, LEFT BANK solution is a
 | Id | Name | Difficulty |
 |----|------|------------|
 | 122 | [Best Time to Buy and Sell Stock II](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/BestTimeToBuyAndSellStockII.java) | Easy |
+| 55 | [Jump Game](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/JumpGame.java) | medium |
+
 
 ### Binary Matrix
 | Id | Name | Difficulty |
@@ -42,6 +44,8 @@ The solution is at problems/the-file-name/. For example, LEFT BANK solution is a
 | 525 | [Contiguous Array](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/ContiguousArray.java) | Medium |
 | 1426 | [Counting Elements](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/CountingElements.java) | Easy |
 | | [Deletion Distance](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/DeletionDistance.java) | |
+| 49 | [Group Anagrams](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/GroupAnagrams.java) | Medium |
+| 202 | [Happy Number](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/HappyNumber.java) | Easy |
 
 ### Advance
 | Id | Name | Difficulty |
