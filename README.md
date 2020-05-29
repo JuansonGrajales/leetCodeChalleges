@@ -25,6 +25,11 @@ The solution is at problems/the-file-name/. For example, LEFT BANK solution is a
 | 55 | [Jump Game](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/JumpGame.java) | medium |
 | 1046 | [Last Stone Weight](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/LastStoneWeight.java) | Easy |
 
+### Array
+| Id | Name | Difficulty |
+|----|------|------------|
+| 238 | [Product of Array Except Self](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/ProductOfArrayExceptSelf.java) | Medium |
+
 ### Binary Matrix
 | Id | Name | Difficulty |
 |----|------|------------|
@@ -34,6 +39,7 @@ The solution is at problems/the-file-name/. For example, LEFT BANK solution is a
 | Id | Name | Difficulty |
 |----|------|------------|
 | 201 | [Bitwise AND of Numbers Range](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/BitwiseAndNumbersRange.java) | Medium |
+| 136 | [Single Number](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/SingleNumber.java) | Easy |
 
 ### Tree
 | Id | Name | Difficulty |
@@ -67,9 +73,16 @@ The solution is at problems/the-file-name/. For example, LEFT BANK solution is a
 | 221 | [Maximal Square](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/MaximalSquare.java) | Medium |
 | 64 | [Minimum Path Sum](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/MinimumPathSum.java) | Medium |
 
+### Search
+| Id | Name | Difficulty |
+|----|------|------------|
+| 200 | [Number of Islands](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/NumberOfIslands.java) | Medium |
+| 33 | [Search in Rotated Sorted Array](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/SortedRotatedArray.java) |  Medium |
+
+
 ### Advance
 | Id | Name | Difficulty |
 |----|------|------------|
 | 1429 | [First Unique Number](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/FirstUniqueNumber.java) | Medium |
-
+| 1427 | [Perform String Shifts](https://github.com/JuansonGrajales/leetCodeChalleges/blob/master/src/main/java/leetCodeChallenges/PerformStringShifts.java) | Easy |
 
